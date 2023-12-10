@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.text
+{
+    font-family: "Tahoma";
+    color: aliceblue;
+    font-size: 20px;
+
+}
+.text_h1
+{
+    font-family: "Tahoma";
+    color: aliceblue;
+}
+.head_text
+{
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: bold;
+    margin-top: 0px;
+    color:aliceblue;
+    left: 30px;
+    text-align: center;
+    animation-name: headtext;
+    
+    
+}
+
+*{
+    font-family: "Tahoma";
+    
+    
+    
+}
+
+.text1
+{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: Monotype Corsiva;
+}
+
+.text_h2
+{
+    color: aliceblue;
+    font-size: 30px;
+    
+}
+.text_forms
+{
+    color: black;
+    font-family: Tahoma;
+   
+
+}
+.box_text
+{
+    font-size: 20px;
+}
