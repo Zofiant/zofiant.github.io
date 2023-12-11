@@ -12,7 +12,6 @@
 }
 
 
-
 .video-wrap {
     position: relative;
     width: 600px;
@@ -36,18 +35,18 @@
     background-color: rgba(51, 51, 51, 0.8);
     color: #fff;
     padding: 20px;
+    height: 30px;
     font-size: 18px;
     position: absolute;
-    bottom: -100%;
+    bottom: 100%;
     left: 0;
     width: 100%;
-    transition: bottom 0.3s ease;
+    transition: top 0.3s ease;
 }
 
 .unique-container:hover .unique-caption {
-    bottom: 0;
+    top: 0;
 }
-
 
 
 
