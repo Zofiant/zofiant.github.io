@@ -226,27 +226,7 @@ button{
         animation: animation 4s infinite linear;
         box-shadow: 0 5px 15px rgba(0,0,0,0.08);
         animation-delay: calc(-1s * var(--i));
-        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    }
 
 
 @keyframes animation {
