@@ -137,30 +137,6 @@ a{
         row-gap: 30px;
     }
     
-    .belly_button{
-        display: none;
-    }
-    .dropdown 
-    {
-        display: none;
-    }
-    
-    
-
-    /* .burger {
-        display: block;
-        font-size: 24px;
-        position: absolute;
-        top: 20px;
-        right: 10px; 
-        cursor: pointer;
-
-    } */
-
-
-   
-
-    
 }
 
 @keyframes burgerAnimation {
@@ -181,6 +157,7 @@ a{
 {  
     width: 35px;
     margin-left: 10px;
+    margin-right: 25px;
     
     
 }
@@ -222,4 +199,6 @@ a{
 .dropdown-content a:hover {background-color: #ddd;}
 
 .dropdown:hover .dropdown-content {display: block;}
+
+
 
