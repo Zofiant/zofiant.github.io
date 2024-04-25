@@ -4,14 +4,14 @@
 .text
 {
     font-family: "Tahoma";
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     font-size: 20px;
 
 }
 .text_h1
 {
     font-family: "Tahoma";
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 .head_text
 {
@@ -19,7 +19,7 @@
     font-size: 40px;
     font-style: bold;
     margin-top: 0px;
-    color:aliceblue;
+    color: rgb(0, 0, 0);
     left: 30px;
     text-align: center;
     animation-name: headtext;
@@ -36,14 +36,14 @@
 
 .text1
 {
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     font-size: 30px;
     font-family: Monotype Corsiva;
 }
 
 .text_h2
 {
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     font-size: 30px;
     
 }
